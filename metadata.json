@@ -1,0 +1,6 @@
+{
+  "name": "書籍圖片套版工具",
+  "description": "輕量化書籍封面圖片快速套版與批次輸出工具，固定 330 × 450 px 直式模板、即時預覽、來源標註與本機 ZIP 批次下載。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
